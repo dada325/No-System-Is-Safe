@@ -19,4 +19,36 @@ To democratize financial education, bridging the knowledge gap between industry 
 
 ## Database design 
 
+## Frontend backend design
+
+Financial_Education_Chatbot/
+├── frontend/
+│   ├── src/
+│   │   ├── components/
+│   │   │   ├── ChatWindow.js
+│   │   │   ├── InputField.js
+│   │   │   ├── CheckboxOptions.js
+│   │   │   ├── SubmitButton.js
+│   │   │   └── LoadingIndicator.js
+│   │   ├── layouts/
+│   │   │   └── MainLayout.js
+│   │   └── App.js
+│   ├── public/
+│   │   └── index.html
+│   └── package.json
+├── backend/
+│   ├── api/
+│   │   └── FinancialDataAPI.js
+│   ├── utils/
+│   │   ├── DataFetching.js
+│   │   └── DataAnalysis.js
+│   ├── ChatGPT4/
+│   │   └── ChatGPT4Handler.js
+│   └── server.js
+├── assets/
+│   ├── images/
+│   │   └── help_icon.png
+│   └── styles/
+│       └── main.css
+└── README.md
 
