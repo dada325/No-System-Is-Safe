@@ -15,9 +15,7 @@ To democratize financial education, bridging the knowledge gap between industry 
 
 
 ## **High level basic design 
-![high level design](https://github.com/dada325/alpha_course/assets/7775973/027191c6-eb42-4221-92d3-ed9cf88577b3)
-
-
+![mermaid-diagram-2023-08-25-150524](https://github.com/dada325/alpha_course/assets/7775973/4aa540c7-f608-4b09-92d2-be97d1e30409)
 
 ## Database design 
 
