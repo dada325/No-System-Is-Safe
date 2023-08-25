@@ -14,6 +14,11 @@ To democratize financial education, bridging the knowledge gap between industry 
 4. **Innovation**: To continuously evolve, leveraging the latest technology and pedagogical methods to deliver the best educational experience.
 
 
+## **High level basic design 
+![high level design](https://github.com/dada325/alpha_course/assets/7775973/027191c6-eb42-4221-92d3-ed9cf88577b3)
+
+
+
 ## Database design 
 
 
